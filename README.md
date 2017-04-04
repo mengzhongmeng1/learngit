@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 My stupid boss still prefers SVN.
 Create a new branch is quick AND quick.
+zcc is so cool
